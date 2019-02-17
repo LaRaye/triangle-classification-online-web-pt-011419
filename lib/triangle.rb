@@ -8,6 +8,10 @@ class Triangle
   end 
   
   def kind
+    sides = []
+    sides << l_1 << l_2 << l_3
+    
+    
     
     
     
