@@ -5,4 +5,11 @@ class Triangle
     @l_1 = l_1
     @l_2 = l_2
     @l_3 = l_3
+  end 
+  
+  def kind
+    
+    
+    
+  end 
 end
